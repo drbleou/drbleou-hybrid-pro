@@ -1,7 +1,7 @@
 {
   "name": "drbleou-hybrid-pro-frontend",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.26.2",
+    "lightweight-charts": "4.2.3"
   },
   "devDependencies": {
     "vite": "5.3.5"
